@@ -1,7 +1,7 @@
 // WHEEL IN THE SKY - TEST CODE
-// This Arduino test code controls a NEMA 34 stepper motor via a DM860T StepperOnline Digital Stepper Driver. 
-// It allows state (on/off), speed, direction, and acceleration/deceleration control via an Arduino's serial 
-// monitor. It also allows for motor diagnostic report.
+// Motor control code for a DM860T digital micro-stepper that drives a NEMA 34 stepper motor. 
+// This code allows basic state (on/off), speed, direction, and acceleration/deceleration control 
+// via serial monitor input and can generate a motor diagnostic report.
 // Author: Kasey Boekholt
 // Co-Author: Christopher Alden
 
